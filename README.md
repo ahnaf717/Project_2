@@ -22,7 +22,8 @@ To-do:
 
 
 ## Contributors
-
->@mohbah
+>Ahnaf Chowdhury
+>Mohammed Bahrami
+>Dearce Goodman
 
    
