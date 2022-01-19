@@ -17,10 +17,12 @@ Shopping List Delivery Web Application will manage the process of connecting onl
 * Create and manage shopping lists by customers which need to be delivered.
 * A shopper/delivery person can accept the lists and order them to the customer.
 
-
-
-
 To-do:
 * Feature which allows customer to review shoppers.
+
+
+## Contributors
+
+>@mohbah
 
    
